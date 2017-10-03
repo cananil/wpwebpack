@@ -7,6 +7,12 @@
  * @since Twenty Sixteen 1.0
  */
 
+
+
+// some Links
+//http://blog.webscopeapp.com/using-webpack-wordpress/
+//https://jonathanmh.com/webpack-sass-scss-compiling-separate-file/
+//https://stackoverflow.com/questions/32211231/webpack-sass-loader-not-generating-a-css-file
 get_header(); ?>
 
 	<section id="primary" class="content-area">
