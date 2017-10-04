@@ -18,6 +18,7 @@
 //https://scotch.io/bar-talk/bootstrap-3-tips-and-tricks-you-might-not-know
 //https://codepen.io/ncerminara/full/omChv/
 //https://medium.com/developing-with-sass/creating-a-dead-simple-sass-mixin-to-handle-responsive-breakpoints-889927b37740
+//class="img-responsive" makes images responsive
 get_header(); ?>
 
 	<section id="primary" class="content-area">
