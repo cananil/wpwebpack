@@ -13,6 +13,11 @@
 //http://blog.webscopeapp.com/using-webpack-wordpress/
 //https://jonathanmh.com/webpack-sass-scss-compiling-separate-file/
 //https://stackoverflow.com/questions/32211231/webpack-sass-loader-not-generating-a-css-file
+
+//Bootstrap
+//https://scotch.io/bar-talk/bootstrap-3-tips-and-tricks-you-might-not-know
+//https://codepen.io/ncerminara/full/omChv/
+//https://medium.com/developing-with-sass/creating-a-dead-simple-sass-mixin-to-handle-responsive-breakpoints-889927b37740
 get_header(); ?>
 
 	<section id="primary" class="content-area">
